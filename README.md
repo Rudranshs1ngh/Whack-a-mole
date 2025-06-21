@@ -15,7 +15,7 @@ To blend **web-based gaming** with **real-time data logging and analytics**, thi
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Java, JDBC
 - **Database**: SQLite
-- **Data Reporting**: Excel Automation (Apache POI), Power BI
+- **Data Reporting**: Excel Automation, Power BI
 - **Tools**: VS Code, Eclipse/IntelliJ, Power BI Desktop
 
 ---
@@ -38,7 +38,7 @@ To blend **web-based gaming** with **real-time data logging and analytics**, thi
 | Frontend       | HTML, CSS, JavaScript     |
 | Backend        | Java, JDBC                |
 | Database       | SQLite                    |
-| Reporting      | Excel (Apache POI), Power BI |
+| Reporting      | Excel, Power BI |
 | Visualization  | Power BI Desktop          |
 
 ---
@@ -48,7 +48,6 @@ To blend **web-based gaming** with **real-time data logging and analytics**, thi
 - Java (JDK 8+)
 - SQLite installed
 - Power BI Desktop (optional)
-- Apache POI for Excel (included in libs)
 
 ### 🕹️ Run the Game
 
