@@ -72,10 +72,6 @@ To blend **web-based gaming** with **real-time data logging and analytics**, thi
 
 ---
 
-## 🖼️ Screenshots
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the project and make it better. From bug fixes to new features, everything helps.
