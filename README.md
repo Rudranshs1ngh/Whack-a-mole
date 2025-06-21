@@ -62,17 +62,6 @@ To blend **web-based gaming** with **real-time data logging and analytics**, thi
 2. Play the game by clicking the moles as they appear.
 3. Your score and time are recorded.
 
-### 🛠️ Run Backend Logging
-
-1. Compile and run `GameLogger.java` after a game session.
-2. It connects to `game_data.db` and inserts your performance data.
-
-### 📊 View Reports
-
-- Open `player_report.xlsx` to see automated summaries.
-- Open `power_bi_dashboard.pbix` in Power BI Desktop for insights.
-
----
 
 ## 🧪 Key Innovation Highlights
 
@@ -84,12 +73,6 @@ To blend **web-based gaming** with **real-time data logging and analytics**, thi
 ---
 
 ## 🖼️ Screenshots
-
-### 🎮 Gameplay
-![Game UI](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Whack_a_mole_game.jpg/320px-Whack_a_mole_game.jpg)
-
-### 📈 Power BI Dashboard
-![Dashboard Example](https://learn.microsoft.com/en-us/power-bi/create-reports/media/service-tutorial-create-dashboard/power-bi-dashboard.png)
 
 ---
 
@@ -110,7 +93,7 @@ Contributions are welcome! Feel free to fork the project and make it better. Fro
 
 ## 🔗 Contact
 
-If you'd like to connect or have feedback:
+If you have any feedback:
 - 📧 Email: i.am.rudransh.singh@gmail.com
 
 ---
