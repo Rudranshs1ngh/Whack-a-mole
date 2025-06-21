@@ -43,12 +43,6 @@ To blend **web-based gaming** with **real-time data logging and analytics**, thi
 
 ---
 
-## 📁 Project Structure
-
-
----
-
-## 🚀 Quick Start
 
 ### 🔧 Prerequisites
 - Java (JDK 8+)
